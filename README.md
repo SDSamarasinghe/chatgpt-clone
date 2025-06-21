@@ -25,6 +25,6 @@ This project is a web-based chat application that connects to OpenAI's API to pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chatgpt-clone.git
+   git clone https://github.com/SDSamarasinghe/chatgpt-clone.git
    cd chatgpt-clone
    ```
